@@ -29,7 +29,7 @@ Want to become a MERN stack developer ❤️.
 ### ✨ Quick Facts
 
 - 👨🏽‍💻 I’m currently studying Software Enggineering at University of the Punjab,Lahore. 
-- 🌱 I’m currently learning Node.js and GraphQl
+- 🌱 I’m currently learning Node.js and GraphQL
 - 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌)
 - ⚡️ Fun-Fact: I sleep at 5am on weekends🙃
 - 🎿 Hobbies other than coding : Reading Books , Playing Video Games , Watching Cricket Matches 🤔🤖..
