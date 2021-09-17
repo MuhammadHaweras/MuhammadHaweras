@@ -60,10 +60,10 @@ Want to become a MERN stack developer ❤️.
 _Since you don't want to leave my profile just yet! Here are a few things you can do :_
 
 
-❤️ Offer work : Send the details on [![Linkedin Badge](https://img.shields.io/badge/-Aman_Ansari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/muhammad-haweras-noor-7aa6b11b2/)
-or [![Gmail Badge](https://img.shields.io/badge/-aman.atg001@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haweras.noor@gmail.com)](mailto:haweras.noor@gmail.com)
+❤️ Offer work : Send the details on [![Linkedin Badge](https://img.shields.io/badge/-Haweras-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/muhammad-haweras-noor-7aa6b11b2/)
+or [![Gmail Badge](https://img.shields.io/badge/-haweras.noor@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:haweras.noor@gmail.com)](mailto:haweras.noor@gmail.com)
 
-❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Aman_Ansari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-haweras-noor-7aa6b11b2/)](https://www.linkedin.com/in/muhammad-haweras-noor-7aa6b11b2/)
+❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Haweras-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-haweras-noor-7aa6b11b2/)](https://www.linkedin.com/in/muhammad-haweras-noor-7aa6b11b2/)
 
 <hr/>
 
