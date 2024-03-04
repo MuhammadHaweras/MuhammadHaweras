@@ -16,7 +16,7 @@
 <br/>
 
 <p>
-A Fullstack React Developer 🚀 from Pakistan. I consider myself as a skilled ROR + React Developer with good debugging skills.
+A Fullstack Developer 🚀 from Pakistan. I consider myself as a skilled ROR + React Developer with good debugging skills.
 <br/>
 Stacks I have worked with : Ruby on Rails, React+Firebase  , Next+React.
 <br/>  
