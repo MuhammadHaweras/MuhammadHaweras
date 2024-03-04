@@ -16,28 +16,25 @@
 <br/>
 
 <p>
-A Fullstack React Developer 🚀 from Pakistan. I consider myself as a skilled React JS Developer with good debugging skills.
+A Fullstack React Developer 🚀 from Pakistan. I consider myself as a skilled ROR + React Developer with good debugging skills.
 <br/>
-Stacks I have worked with :  React+Firebase  , Next+React.
+Stacks I have worked with : Ruby on Rails, React+Firebase  , Next+React.
 <br/>  
-
-Want to become a MERN stack developer ❤️.
 </p>
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
   
 ### ✨ Quick Facts
 
-- 👨🏽‍💻 I’m currently studying Software Enggineering at University of the Punjab,Lahore. 
-- 🌱 I’m currently learning Node.js and GraphQL
-- 💬 Ask me about anything related to JS, React, Redux, Firebase.(After googling it 😜😌)
+- 👨🏽‍💻 I’m developer having almost 2 years of industry experience. 
+- 🌱 I’m dedicated to continuous learning.
+- 💬 Ask me about anything related to Ruby on Rails, JS, React, Redux, Firebase.( I will tell you After googling it 😜😌)
 - ⚡️ Fun-Fact: I sleep at 5am on weekends🙃
-- 🎿 Hobbies other than coding : Reading Books , Playing Video Games , Watching Cricket Matches 🤔🤖..
+- 🎿 Hobbies other than coding : Reading Islamic Books , Playing Video Games , Watching Cricket Matches 🤔🤖..
 - 📫 How to reach me: +923042322710
 
 
 ### 🛠️ Languages and Tools:
 
+![Ruby On Rails](https://img.shields.io/badge/-RubyOnRails-red?style=flat-square&logo=Rails)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
