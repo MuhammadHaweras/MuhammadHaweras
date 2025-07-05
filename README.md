@@ -39,12 +39,17 @@ With a strong foundation in **Machine Learning**, **Deep Learning**, **LLMs**, a
 ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
 ![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
 ![Scikit-Learn](https://img.shields.io/badge/-ScikitLearn-black?style=flat-square&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=flat-square&logo=openai)
 ![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat-square)
+![LangGraph](https://img.shields.io/badge/-LangGraph-black?style=flat-square&logo=graphql)
+![CrewAI](https://img.shields.io/badge/-CrewAI-black?style=flat-square&logo=apacheairflow)
 ![ChromaDB](https://img.shields.io/badge/-ChromaDB-black?style=flat-square)
 ![FAISS](https://img.shields.io/badge/-FAISS-black?style=flat-square)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-black?style=flat-square&logo=streamlit)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
+
 
 #### 🌐 Web Development
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
