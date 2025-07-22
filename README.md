@@ -17,15 +17,15 @@
 
 I'm a **Full-Stack AI Engineer** & **Data Scientist** from Pakistan 🇵🇰 with a passion for building intelligent systems and production-ready web applications.
 
-With a strong foundation in **Machine Learning**, **Deep Learning**, **LLMs**, and **Agentic AI**, I also bring hands-on experience in building web-based AI tools using **React**, **Next.js**, **FastAPI** and **Databases**.
+With a strong foundation in **Machine Learning**, **Deep Learning** and **LLMs**, I also bring hands-on experience in building web-based AI tools using **React**, **FastAPI** and **Databases**.
 
 ---
 
 ### 🚀 Quick Highlights
 
 - 👨🏽‍💻 3 + years of experience in full-stack and AI development
-- 🧠 Specialize in **Data Science**,  **model deployment**, **Deep Learning** and  **Agentic AI** .
-- 🧰 Skilled in both **front-end** & **back-end** stacks (React, Next.js, FastAPI)
+- 🧠 Specialize in **Data Science**,  **Machine Learning** and **Deep Learning**.
+- 🧰 Skilled in both **front-end** & **back-end** stacks (React, FastAPI)
 - 📈 Love solving real-world problems using AI, NLP, and analytics
 - ⚡ Fun Fact: I go to sleep at 5AM on weekends 🙃
 - 📖 Outside of work: Reading Islamic Books 📚, Gaming 🎮, Cricket 🏏
@@ -43,17 +43,12 @@ With a strong foundation in **Machine Learning**, **Deep Learning**, **LLMs**, a
 ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=flat-square&logo=openai)
 ![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat-square)
-![LangGraph](https://img.shields.io/badge/-LangGraph-black?style=flat-square&logo=graphql)
-![CrewAI](https://img.shields.io/badge/-CrewAI-black?style=flat-square&logo=apacheairflow)
-![ChromaDB](https://img.shields.io/badge/-ChromaDB-black?style=flat-square)
-![FAISS](https://img.shields.io/badge/-FAISS-black?style=flat-square)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-black?style=flat-square&logo=streamlit)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
 
 
 #### 🌐 Web Development
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=next.js)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
 ![Material-UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
